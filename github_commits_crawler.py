@@ -34,6 +34,7 @@ def setup_logging():
     )
 
 def crawl_github_commits(owner, repository):
+    setup_logging()
     # 日志
     logging.info("Crawling commits for %s/%s" % (owner, repository))
 
