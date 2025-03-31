@@ -19,7 +19,7 @@ HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
 # 设置时间间隔
 time_interval = 30
 
-# 计算最近 30 天的时间戳
+# 计算最近 time_interval 天的时间戳
 since_date = (datetime.datetime.utcnow() - datetime.timedelta(days=time_interval)).isoformat() + "Z"
 
 def setup_logging():
