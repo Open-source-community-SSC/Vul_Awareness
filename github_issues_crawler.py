@@ -3,6 +3,7 @@ import logging
 import time
 import requests
 import datetime
+from setup_logging import setup_logging
 
 from github_commits_crawler import time_interval
 
@@ -21,19 +22,6 @@ time_interval = 30
 
 # 计算最近 time_interval 天的时间戳
 since_date = (datetime.datetime.utcnow() - datetime.timedelta(days=time_interval)).isoformat() + "Z"
-
-def setup_logging():
-    """配置日志记录器"""
-    logging.basicConfig(
-        level=logging.INFO,   # 设置日志级别为INFO，这样INFO及以上级别的日志都会输出
-        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',   # 日志格式
-        datefmt='%Y-%m-%d %H:%M:%S',   # 日期时间格式
-        handlers=[
-            # 同时将日志输出到文件和控制台
-            logging.FileHandler('log/crawler.log'),
-            logging.StreamHandler()
-        ]
-    )
 
 def crawl_github_issues(owner, repository):
     setup_logging()
