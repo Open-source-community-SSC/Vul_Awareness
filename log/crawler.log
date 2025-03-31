@@ -1,0 +1,167 @@
+2025-03-31 12:00:33 - root - INFO - Crawling issues for torvalds/linux
+2025-03-31 12:00:35 - root - INFO - Fetched 61 issues of page 1
+2025-03-31 12:00:35 - root - INFO - Next page: None
+2025-03-31 12:00:35 - root - INFO - Saving issues to file
+2025-03-31 12:00:35 - root - INFO - Saved 61 issues to issues/torvalds_linux_issues.json.
+2025-03-31 12:00:35 - root - INFO - Done.
+2025-03-31 12:00:49 - root - INFO - Crawling issues for torvalds/linux
+2025-03-31 12:00:51 - root - INFO - Fetched 91 issues of page 1
+2025-03-31 12:00:51 - root - INFO - Next page: None
+2025-03-31 12:00:51 - root - INFO - Saving issues to file
+2025-03-31 12:00:51 - root - INFO - Saved 91 issues to issues/torvalds_linux_issues.json.
+2025-03-31 12:00:51 - root - INFO - Done.
+2025-03-31 12:00:58 - root - INFO - Crawling issues for torvalds/linux
+2025-03-31 12:01:00 - root - INFO - Fetched 100 issues of page 1
+2025-03-31 12:01:00 - root - INFO - Next page: https://api.github.com/repositories/2325298/issues?state=all&since=2024-12-31T04%3A00%3A58.570377Z&per_page=100&page=2
+2025-03-31 12:01:01 - root - INFO - Fetched 22 issues of page 2
+2025-03-31 12:01:01 - root - INFO - Next page: None
+2025-03-31 12:01:01 - root - INFO - Saving issues to file
+2025-03-31 12:01:01 - root - INFO - Saved 122 issues to issues/torvalds_linux_issues.json.
+2025-03-31 12:01:01 - root - INFO - Done.
+2025-03-31 12:16:43 - root - INFO - Crawling commits for torvalds/linux
+2025-03-31 12:16:52 - root - INFO - Fetched 100 commits of page 1
+2025-03-31 12:16:52 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=2
+2025-03-31 12:16:54 - root - INFO - Fetched 100 commits of page 2
+2025-03-31 12:16:54 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=3
+2025-03-31 12:16:56 - root - INFO - Fetched 100 commits of page 3
+2025-03-31 12:16:56 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=4
+2025-03-31 12:16:57 - root - INFO - Fetched 100 commits of page 4
+2025-03-31 12:16:57 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=5
+2025-03-31 12:16:59 - root - INFO - Fetched 100 commits of page 5
+2025-03-31 12:16:59 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=6
+2025-03-31 12:17:01 - root - INFO - Fetched 100 commits of page 6
+2025-03-31 12:17:01 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=7
+2025-03-31 12:17:04 - root - INFO - Fetched 100 commits of page 7
+2025-03-31 12:17:04 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=8
+2025-03-31 12:17:05 - root - INFO - Fetched 100 commits of page 8
+2025-03-31 12:17:05 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=9
+2025-03-31 12:17:07 - root - INFO - Fetched 100 commits of page 9
+2025-03-31 12:17:07 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=10
+2025-03-31 12:17:08 - root - INFO - Fetched 100 commits of page 10
+2025-03-31 12:17:08 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=11
+2025-03-31 12:17:10 - root - INFO - Fetched 100 commits of page 11
+2025-03-31 12:17:10 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=12
+2025-03-31 12:17:12 - root - INFO - Fetched 100 commits of page 12
+2025-03-31 12:17:12 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=13
+2025-03-31 12:17:14 - root - INFO - Fetched 100 commits of page 13
+2025-03-31 12:17:14 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=14
+2025-03-31 12:17:16 - root - INFO - Fetched 100 commits of page 14
+2025-03-31 12:17:16 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=15
+2025-03-31 12:17:17 - root - INFO - Fetched 100 commits of page 15
+2025-03-31 12:17:17 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=16
+2025-03-31 12:17:19 - root - INFO - Fetched 100 commits of page 16
+2025-03-31 12:17:19 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=17
+2025-03-31 12:17:20 - root - INFO - Fetched 100 commits of page 17
+2025-03-31 12:17:20 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=18
+2025-03-31 12:17:22 - root - INFO - Fetched 100 commits of page 18
+2025-03-31 12:17:22 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=19
+2025-03-31 12:17:24 - root - INFO - Fetched 100 commits of page 19
+2025-03-31 12:17:24 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=20
+2025-03-31 12:17:25 - root - INFO - Fetched 100 commits of page 20
+2025-03-31 12:17:25 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=21
+2025-03-31 12:17:27 - root - INFO - Fetched 100 commits of page 21
+2025-03-31 12:17:27 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=22
+2025-03-31 12:17:28 - root - INFO - Fetched 100 commits of page 22
+2025-03-31 12:17:28 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=23
+2025-03-31 12:17:30 - root - INFO - Fetched 100 commits of page 23
+2025-03-31 12:17:30 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=24
+2025-03-31 12:17:32 - root - INFO - Fetched 100 commits of page 24
+2025-03-31 12:17:32 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=25
+2025-03-31 12:17:33 - root - INFO - Fetched 100 commits of page 25
+2025-03-31 12:17:33 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=26
+2025-03-31 12:17:35 - root - INFO - Fetched 100 commits of page 26
+2025-03-31 12:17:35 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=27
+2025-03-31 12:17:37 - root - INFO - Fetched 100 commits of page 27
+2025-03-31 12:17:37 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=28
+2025-03-31 12:17:39 - root - INFO - Fetched 100 commits of page 28
+2025-03-31 12:17:39 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=29
+2025-03-31 12:17:40 - root - INFO - Fetched 100 commits of page 29
+2025-03-31 12:17:40 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=30
+2025-03-31 12:17:42 - root - INFO - Fetched 100 commits of page 30
+2025-03-31 12:17:42 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=31
+2025-03-31 12:17:44 - root - INFO - Fetched 100 commits of page 31
+2025-03-31 12:17:44 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=32
+2025-03-31 12:17:45 - root - INFO - Fetched 100 commits of page 32
+2025-03-31 12:17:45 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=33
+2025-03-31 12:17:47 - root - INFO - Fetched 100 commits of page 33
+2025-03-31 12:17:47 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=34
+2025-03-31 12:17:48 - root - INFO - Fetched 100 commits of page 34
+2025-03-31 12:17:48 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=35
+2025-03-31 12:17:50 - root - INFO - Fetched 100 commits of page 35
+2025-03-31 12:17:50 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=36
+2025-03-31 12:17:51 - root - INFO - Fetched 100 commits of page 36
+2025-03-31 12:17:51 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=37
+2025-03-31 12:17:53 - root - INFO - Fetched 100 commits of page 37
+2025-03-31 12:17:53 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=38
+2025-03-31 12:17:54 - root - INFO - Fetched 100 commits of page 38
+2025-03-31 12:17:54 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=39
+2025-03-31 12:17:56 - root - INFO - Fetched 100 commits of page 39
+2025-03-31 12:17:56 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=40
+2025-03-31 12:17:58 - root - INFO - Fetched 100 commits of page 40
+2025-03-31 12:17:58 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=41
+2025-03-31 12:17:59 - root - INFO - Fetched 100 commits of page 41
+2025-03-31 12:17:59 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=42
+2025-03-31 12:18:01 - root - INFO - Fetched 100 commits of page 42
+2025-03-31 12:18:01 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=43
+2025-03-31 12:18:02 - root - INFO - Fetched 100 commits of page 43
+2025-03-31 12:18:02 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=44
+2025-03-31 12:18:04 - root - INFO - Fetched 100 commits of page 44
+2025-03-31 12:18:04 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=45
+2025-03-31 12:18:06 - root - INFO - Fetched 100 commits of page 45
+2025-03-31 12:18:06 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=46
+2025-03-31 12:18:08 - root - INFO - Fetched 100 commits of page 46
+2025-03-31 12:18:08 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=47
+2025-03-31 12:18:09 - root - INFO - Fetched 100 commits of page 47
+2025-03-31 12:18:09 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=48
+2025-03-31 12:18:11 - root - INFO - Fetched 100 commits of page 48
+2025-03-31 12:18:11 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=49
+2025-03-31 12:18:13 - root - INFO - Fetched 100 commits of page 49
+2025-03-31 12:18:13 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=50
+2025-03-31 12:18:14 - root - INFO - Fetched 100 commits of page 50
+2025-03-31 12:18:14 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=51
+2025-03-31 12:18:16 - root - INFO - Fetched 100 commits of page 51
+2025-03-31 12:18:16 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=52
+2025-03-31 12:18:17 - root - INFO - Fetched 100 commits of page 52
+2025-03-31 12:18:17 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=53
+2025-03-31 12:18:19 - root - INFO - Fetched 100 commits of page 53
+2025-03-31 12:18:19 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=54
+2025-03-31 12:18:20 - root - INFO - Fetched 100 commits of page 54
+2025-03-31 12:18:20 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=55
+2025-03-31 12:18:22 - root - INFO - Fetched 100 commits of page 55
+2025-03-31 12:18:22 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=56
+2025-03-31 12:18:23 - root - INFO - Fetched 100 commits of page 56
+2025-03-31 12:18:23 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=57
+2025-03-31 12:18:25 - root - INFO - Fetched 100 commits of page 57
+2025-03-31 12:18:25 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=58
+2025-03-31 12:18:26 - root - INFO - Fetched 100 commits of page 58
+2025-03-31 12:18:26 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=59
+2025-03-31 12:18:28 - root - INFO - Fetched 100 commits of page 59
+2025-03-31 12:18:28 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=60
+2025-03-31 12:18:29 - root - INFO - Fetched 100 commits of page 60
+2025-03-31 12:18:29 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=61
+2025-03-31 12:18:31 - root - INFO - Fetched 100 commits of page 61
+2025-03-31 12:18:31 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=62
+2025-03-31 12:18:32 - root - INFO - Fetched 100 commits of page 62
+2025-03-31 12:18:32 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-01T04%3A16%3A43.235531Z&per_page=100&page=63
+2025-03-31 12:18:34 - root - INFO - Fetched 23 commits of page 63
+2025-03-31 12:18:34 - root - INFO - Next page: None
+2025-03-31 12:18:34 - root - INFO - Saving commits to file.
+2025-03-31 12:20:30 - root - INFO - Crawling commits for torvalds/linux
+2025-03-31 12:20:31 - root - INFO - Fetched 100 commits of page 1
+2025-03-31 12:20:31 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-25T04%3A20%3A30.174318Z&per_page=100&page=2
+2025-03-31 12:20:46 - root - INFO - Crawling commits for torvalds/linux
+2025-03-31 12:20:48 - root - INFO - Fetched 100 commits of page 1
+2025-03-31 12:20:48 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-25T04%3A20%3A46.699133Z&per_page=100&page=2
+2025-03-31 12:20:59 - root - INFO - Fetched 100 commits of page 2
+2025-03-31 12:20:59 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-25T04%3A20%3A46.699133Z&per_page=100&page=3
+2025-03-31 12:21:11 - root - INFO - Fetched 100 commits of page 3
+2025-03-31 12:21:11 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-25T04%3A20%3A46.699133Z&per_page=100&page=4
+2025-03-31 12:21:23 - root - INFO - Fetched 100 commits of page 4
+2025-03-31 12:21:23 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-25T04%3A20%3A46.699133Z&per_page=100&page=5
+2025-03-31 12:21:34 - root - INFO - Fetched 100 commits of page 5
+2025-03-31 12:21:34 - root - INFO - Next page: https://api.github.com/repositories/2325298/commits?since=2025-03-25T04%3A20%3A46.699133Z&per_page=100&page=6
+2025-03-31 12:21:45 - root - INFO - Fetched 17 commits of page 6
+2025-03-31 12:21:45 - root - INFO - Next page: None
+2025-03-31 12:21:55 - root - INFO - Saving commits to file.
+2025-03-31 12:21:55 - root - INFO - Saved 517 commits to commits/torvalds_linux_commits.json.
+2025-03-31 12:21:55 - root - INFO - Done.
