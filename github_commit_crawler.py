@@ -3,7 +3,7 @@ import json
 import time
 import logging
 import requests
-import datetime
+from setup_logging import setup_logging
 
 """
     1、遍历 commits 清单，
@@ -14,19 +14,6 @@ import datetime
 # 设置 Github 账户信息（建议使用 token 以避免 API 速率限制）
 GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
-
-def setup_logging():
-    """配置日志记录器"""
-    logging.basicConfig(
-        level=logging.INFO,   # 设置日志级别为INFO，这样INFO及以上级别的日志都会输出
-        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',   # 日志格式
-        datefmt='%Y-%m-%d %H:%M:%S',   # 日期时间格式
-        handlers=[
-            # 同时将日志输出到文件和控制台
-            logging.FileHandler('log/crawler.log'),
-            logging.StreamHandler()
-        ]
-    )
 
 def get_commit_details(sha, url):
     """
