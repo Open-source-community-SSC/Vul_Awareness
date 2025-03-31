@@ -36,6 +36,7 @@ def setup_logging():
     )
 
 def crawl_github_issues(owner, repository):
+    setup_logging()
     # 日志
     logging.info("Crawling issues for %s/%s" % (owner, repository))
 
