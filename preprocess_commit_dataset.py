@@ -32,7 +32,7 @@ def preprocess_commit_dataset(owner, repository):
     ], ignore_index=True)
 
     dataset.to_csv(f"data/dataset_{owner}_{repository}_commit.csv", index=False)
-    with open(f"data/dataset_{owner}_{repository}_commit.json", 'w') as f:
+    with open(f"data/dataset_{owner}_{repository}_commit.json", 'w', encoding='utf-8') as f:
         json.dump(data_list, f, ensure_ascii=False, indent=4)
     logging.info(f"成功处理并保存 {owner}/{repository} 的 commit 数据")
 
