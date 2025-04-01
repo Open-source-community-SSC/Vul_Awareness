@@ -1,0 +1,307 @@
+[
+    {
+        "issue_id": "1189",
+        "title": "Remove useless code",
+        "body": "In this PR, I remove completely useless code, which has only increased compilation time and made the files themselves bigger for no reason. This PR makes the Linux kernel really light-weight, which may help people that are low on disk space.\r\n\r\nSincerely, me."
+    },
+    {
+        "issue_id": "1188",
+        "title": "sound code is updated",
+        "body": "Bhai please accept my pull request .  i am new developer & my name is frank "
+    },
+    {
+        "issue_id": "1187",
+        "title": "closed pull request",
+        "body": ""
+    },
+    {
+        "issue_id": "1186",
+        "title": "drivers/platform/x86/: add dasharo-acpi",
+        "body": ""
+    },
+    {
+        "issue_id": "1185",
+        "title": "Create c-cpp.yml",
+        "body": ""
+    },
+    {
+        "issue_id": "1184",
+        "title": "Typo file vs directory",
+        "body": "Simple typo in the way files vs directory inputs to usr/gen_initramfs.sh are described on this page."
+    },
+    {
+        "issue_id": "1183",
+        "title": "fix readme",
+        "body": "i made the readme cooler for the coolest kernel ever! <3"
+    },
+    {
+        "issue_id": "1182",
+        "title": "Sync",
+        "body": ""
+    },
+    {
+        "issue_id": "1181",
+        "title": "Improving metric.py",
+        "body": "This change improves code readability, adds performance optimisations, error handling and adds additional features like supporting more operators."
+    },
+    {
+        "issue_id": "1180",
+        "title": "Create SECURITY.md",
+        "body": "Popo"
+    },
+    {
+        "issue_id": "1179",
+        "title": "é de suma importancia que senhor linux  que o  allan não é um baitola",
+        "body": "é de suma importancia que senhor linux  que o  allan não é um baitola😈😈😈😈😈"
+    },
+    {
+        "issue_id": "1178",
+        "title": "Add EDID_QUIRK for Playstation VR Headsets with Product ID 0xB403",
+        "body": "This fixes a bug where some Playstation VR Headsets would not be assigned the EDID_QUIRK_NON_DESKTOP quirk, causing them to be inaccessible by certain software under Wayland."
+    },
+    {
+        "issue_id": "1177",
+        "title": "Basically-1.11",
+        "body": "[PROJECT_PROGRESSION.md](https://github.com/user-attachments/files/19341228/PROJECT_PROGRESSION.md)\r\n"
+    },
+    {
+        "issue_id": "1176",
+        "title": "Dev/alex/test charlie report manual",
+        "body": ""
+    },
+    {
+        "issue_id": "1175",
+        "title": "hello world",
+        "body": ""
+    },
+    {
+        "issue_id": "1174",
+        "title": "test hello world",
+        "body": ""
+    },
+    {
+        "issue_id": "1173",
+        "title": "Coursework",
+        "body": ""
+    },
+    {
+        "issue_id": "1172",
+        "title": "Dev/alex/fix huge ptep get and clear v1 manual",
+        "body": ""
+    },
+    {
+        "issue_id": "1171",
+        "title": "Begin Rewrite in Java to be truly Enterprise:tm:-ready.",
+        "body": "This pr represents a _bold_ and forward thinking step towards modernizing the Linux kernel.\r\n\r\nAfter careful consideration, I have deleted the entirety of the existing, obsolete Linux source code and replaced it with `HelloWorld.java` file. This is the beginning of a truly enterprise™️-ready rewrite of Linux, utilizing the _unparalleled_ robustness of Java©️™️.\r\n\r\n## Changes Made\r\n\r\n- Deleted every single file.\r\n\r\n- Added one (1) enterprise™️-ready file: HelloWorld.java:\r\n\r\n```java\r\npublic class HelloWorld {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello, World!\");\r\n    }\r\n}\r\n```\r\n\r\n## Why Java©️™️?\r\n\r\nJava©️™️ brings a plethora of benefits to the Linux kernel:\r\n\r\n### Enterprise Readiness:\r\n\r\nThe JVM©️™️ (Java©️™️ Virtual Machine) is practically synonymous with enterprise™️ and business©️.\r\n\r\n### Memory Management:\r\n\r\nGarbage collection!!!\r\n\r\n### Security:\r\n\r\nWith Java©️™️’s sandboxing features, the kernel is now immune to null-pointer dereferences. (You're welcome.)\r\n\r\n### Cross-Platform:\r\n\r\nNow the linux kernel can run on the JVM©️™️! over 3(?) billion devices run java, meaning Linux will skyrocket in popularity!\r\n\r\n### Better Syntax:\r\n\r\n`System.out.println(\"Hello, World!\")` is infinitely more intuitive than `printf(\"Hello, World!\\n\")`;.\r\n\r\n### Zero Buffer Overflows:\r\n\r\nBecause strings are objects now.\r\n\r\n### Future Plans\r\n\r\nThis pull request is just the beginning of an exciting journey. Future enhancements will include:\r\n\r\n- `AbstractKernelFactory.java` for creating kernel abstractions.\r\n- `AbstractKernelFactoryFactory.java` for creating those kernel abstraction factories.\r\n- `SingletonKernel.java` to ensure only one kernel instance per JVM.\r\n- Microservices Architecture to replace monolithic processes.\r\n- Integration with industry-standard tools like Spring Boot.\r\n\r\n### Advantages Over C\r\n\r\n- More enterprise™️\r\n\r\n### Testing\r\n\r\nTesting was performed rigorously by running `java HelloWorld.java` All tests passed.\r\n\r\n### Potential Issues\r\n\r\n- JVM startup time *might* slightly increase kernel boot times (initial estimates: 12 minutes per core). \r\n\r\n- *Minor* backward compatibility concerns (The whole project has been deleted).\r\n\r\n### Request for Comments\r\n\r\nLet’s move Linux forward into the brave world of enterprise™️™️™️-grade software. Please provide feedback, but only if it aligns with the principles of Java©️™️. Constructive criticism will be filed in /dev/null. I will discuss it with my team in the next Agile Sprint Standup Poker!"
+    },
+    {
+        "issue_id": "1170",
+        "title": "Rename to Winux",
+        "body": "Add Linus's new changes."
+    },
+    {
+        "issue_id": "1169",
+        "title": "Test",
+        "body": ""
+    },
+    {
+        "issue_id": "1168",
+        "title": "Update README ",
+        "body": "# Revision to the Linux Kernel Repository README!\r\nThis is not all that crazy, just some added ASCII and Markdown.\r\n\r\n## Risks\r\nNone, This is simply a slight graphical update to the README.\r\n\r\n### To the reviewers:\r\nHello! First big commit like this, sorry if I am missing something important."
+    },
+    {
+        "issue_id": "1167",
+        "title": "Update ll_temac_main.c",
+        "body": "fix lock description"
+    },
+    {
+        "issue_id": "1166",
+        "title": "Manual run 6.14-rc5",
+        "body": ""
+    },
+    {
+        "issue_id": "1165",
+        "title": "ahci: Add Marvell 88se9215 device id",
+        "body": "Add device id for Marvell 88se9215\r\n\r\nSigned-off-by: Peter Schlaf <Peter.Schlaf@web.de>"
+    },
+    {
+        "issue_id": "1164",
+        "title": "Create TODO.md",
+        "body": "Note for the future."
+    },
+    {
+        "issue_id": "1161",
+        "title": "Update core.c16",
+        "body": "#192 "
+    },
+    {
+        "issue_id": "1155",
+        "title": "Update main.c with peace message during boot",
+        "body": "Add peace message to kernel logs\r\n\r\nThis commit adds a simple message to the kernel logs: \"PAX: This is a peaceful software!\"\r\n\r\nThe message appears right after the Linux version banner during boot and serves as a reminder that open-source software should promote peace and collaboration.\r\n\r\nThis change does not affect functionality and is purely informational.\r\n\r\nSigned-off-by: Hendrik Joachim Rennefeld"
+    },
+    {
+        "issue_id": "1151",
+        "title": "Fix multicore arcsync reset",
+        "body": "Since all cores within the cluster share the same reset line, lifting the reset line before the IVT is set for cores other than 0 leads to them to be stuck trying to execute at 0x00000000. This fixes this behavior."
+    },
+    {
+        "issue_id": "1150",
+        "title": "made code more efficient",
+        "body": "I made the code better and more efficent. Can I be credited in the credits pwease 🥺🥺🥺👉👉👉👈👈👈"
+    },
+    {
+        "issue_id": "1137",
+        "title": "misspelling",
+        "body": ""
+    },
+    {
+        "issue_id": "1131",
+        "title": "Update kvm.c",
+        "body": ""
+    },
+    {
+        "issue_id": "1121",
+        "title": "Create c-cpp.yml",
+        "body": ""
+    },
+    {
+        "issue_id": "1110",
+        "title": "Rust in Peace",
+        "body": "No More Rust in the Kernel\r\n\r\nAfter much debate, it’s become clear that Rust in the kernel is like pineapple on pizza, controversial, divisive, and not everyone agrees it belongs. This merge request boldly takes the step to remove Rust and restore the kernel to its C-only glory.\r\n\r\n---\r\n## **What this MR does**\r\n\r\n1. **Eradicates Rust code**: All Rust files have been sent to `/dev/null` (don’t worry, I didn’t `cargo` them along for the ride). \r\n\r\n---\r\n\r\n## **Risks**\r\n- Some developers may cry.  \r\n- Potential spike in segmentation faults.  \r\n- Kernel development team may face existential crises without a memory-safe language.\r\n\r\n---\r\n\r\n## **Testing**\r\n- Compiled and ran the kernel.  \r\n- Works fine! *(At least on my machine.)*  \r\n- Randomly poked `/proc` to confirm it didn’t explode.  \r\n\r\n---\r\n"
+    },
+    {
+        "issue_id": "1109",
+        "title": "SECURITY.md",
+        "body": "[](url) run"
+    },
+    {
+        "issue_id": "1101",
+        "title": "easy way to fix security",
+        "body": ""
+    },
+    {
+        "issue_id": "1087",
+        "title": "An open letter to Linus. also goida z z z svo v v v  ",
+        "body": "**goida bratia***"
+    },
+    {
+        "issue_id": "1075",
+        "title": "Update tsacct.c",
+        "body": "Optimize acct_update_integrals by replacing local_irq_save with a more fine-grained spinlock (tsk->mm->page_table_lock) to reduce locking overhead. This minimizes the time interrupts are disabled while still ensuring the integrity of the accounting data."
+    },
+    {
+        "issue_id": "1072",
+        "title": "删除不尊重LGBT的开发者 Remove maintainers who do not respect LGBT people",
+        "body": "据本人调查，被linus torvalds删除的俄罗斯开发者中有同性恋者，所以我怀疑Linux的全体开发者厌恶LGBT。\r\nLGBT也是人，我们要尊重LGBT，所以我从MAINTAINERS文件中删除了所有开发者。\r\n\r\nAccording to my own research, among the Russian developers removed by linus torvalds were gays, so I suspect that Linux developers in general hate LGBT.\r\nLGBT people are people and we need to respect LGBT people, so I removed all maintainers from the MAINTAINERS file.\r\n\r\nBy. Li lingyi, in Changsha, China"
+    },
+    {
+        "issue_id": "1019",
+        "title": "remove MAINTAINERS from countries I don't like",
+        "body": "Hi, it has come to my attention that certain contributors are being removed for being born in the wrong country. IMHO this isn't enough. To achieve true political correctness we should ban contributors from all countries I personally dislike.\r\n### List of countries to be banned from contributing to the kernel:\r\n<details><summary>Full List</summary>\r\n\r\n    Egypt\r\n    Cape Verde\r\n    Kyrgyzstan\r\n    Lithuania\r\n    Maldives\r\n    Tanzania\r\n    Myanmar\r\n    Jamaica\r\n    Malta\r\n    Benin\r\n    Dominican Republic\r\n    Congo\r\n    Solomon Islands\r\n    Cameroon\r\n    Vanuatu\r\n    Eritrea\r\n    New Zealand\r\n    Ghana\r\n    Grenada\r\n    Andorra\r\n    Colombia\r\n    Jordan\r\n    Algeria\r\n    Bulgaria\r\n    Thailand\r\n    Malaysia\r\n    Uganda\r\n    Paraguay\r\n    Finland\r\n    Bahamas\r\n    Zambia\r\n    South Africa\r\n    Timor-Leste\r\n    Belgium\r\n    Bahrain\r\n    Panama\r\n    R̶u̶s̶s̶i̶a (already banned)\r\n    Nigeria\r\n    Haiti\r\n    Australia\r\n    United Arab Emirates\r\n    Barbados\r\n    Holy See\r\n    Spain (the best country)\r\n    Equatorial Guinea\r\n    Czechia\r\n    Palau\r\n    Laos\r\n    Sweden\r\n    Gambia\r\n    Angola\r\n    Senegal\r\n    Kiribati\r\n    Costa Rica\r\n    Liberia\r\n    Canada\r\n    Togo\r\n    Iraq\r\n    Yemen\r\n    Greece\r\n    Democratic Republic of the Congo\r\n    Austria\r\n    Syria\r\n    Gabon\r\n    Cyprus\r\n    Uzbekistan\r\n    Lebanon\r\n    Liechtenstein\r\n    Chad\r\n    Trinidad and Tobago\r\n    Marshall Islands\r\n    Malawi\r\n    Central African Republic\r\n    Israel (for... reasons)\r\n    Madagascar\r\n    Luxembourg\r\n    Brazil\r\n    Romania\r\n    Mali\r\n    North Korea\r\n    Armenia\r\n    Sudan\r\n    Botswana\r\n    Samoa\r\n    Saudi Arabia\r\n    Guinea\r\n    Tonga\r\n    Rwanda\r\n    Netherlands\r\n    Monaco\r\n    Morocco\r\n    Turkey\r\n    Brunei\r\n    Bhutan\r\n    Philippines\r\n    Ecuador\r\n    Nicaragua\r\n    Italy\r\n    Ethiopia\r\n    Afghanistan\r\n    Saint Kitts and Nevis\r\n    India\r\n    Cambodia\r\n    Uruguay\r\n    Qatar\r\n    Serbia\r\n    Saint Lucia\r\n    Libya\r\n    Pakistan\r\n    France (please 🙏🏻)\r\n    Djibouti\r\n    Germany\r\n    Bangladesh\r\n    Micronesia\r\n    Guinea-Bissau\r\n    Kazakhstan\r\n    Hungary\r\n    Poland\r\n    Dominica\r\n    Sao Tome and Principe\r\n    South Korea\r\n    Mauritania\r\n    Guyana\r\n    Eswatini\r\n    Suriname\r\n    Slovakia\r\n    Oman\r\n    Niger\r\n    Singapore\r\n    Denmark\r\n    Belarus\r\n    Bosnia and Herzegovina\r\n    Sierra Leone\r\n    Cuba\r\n    Ireland\r\n    Côte d'Ivoire\r\n    Burundi\r\n    Ukraine\r\n    Papua New Guinea\r\n    Mauritius\r\n    Antigua and Barbuda\r\n    Saint Vincent and the Grenadines\r\n    Fiji\r\n    Portugal\r\n    Somalia\r\n    Kuwait\r\n    Nauru\r\n    Argentina\r\n    Latvia\r\n    Estonia\r\n    Chile\r\n    Moldova\r\n    Turkmenistan\r\n    Georgia\r\n    United States of America\r\n    Nepal\r\n    El Salvador\r\n    Venezuela\r\n    State of Palestine\r\n    North Macedonia\r\n    Tunisia\r\n    Croatia\r\n    Iceland\r\n    Japan\r\n    Slovenia\r\n    Kenya\r\n    Lesotho\r\n    Guatemala\r\n    Switzerland\r\n    Tuvalu\r\n    United Kingdom\r\n    China (你好谷歌翻译)\r\n    San Marino\r\n    Namibia\r\n    Vietnam\r\n    Norway\r\n    Honduras\r\n    Mozambique\r\n    Peru\r\n    Zimbabwe\r\n    Albania\r\n    Belize\r\n    South Sudan\r\n    Burkina Faso\r\n    Mongolia\r\n    Mexico\r\n    Comoros\r\n    Azerbaijan\r\n    Bolivia\r\n    Iran\r\n    Tajikistan\r\n    Montenegro\r\n    Indonesia\r\n    Seychelles\r\n    Sri Lanka\r\n/s\r\n</details>"
+    },
+    {
+        "issue_id": "978",
+        "title": "Create CODE_OF_CONDUCT.md",
+        "body": ""
+    },
+    {
+        "issue_id": "956",
+        "title": "/////////////''''''''''\\ggggggggggggggggggggggggggggfffffffffffffffff…",
+        "body": "…fffffffffffffffd\r\n\r\ng';flllllllllllllllllllllllllllllld'g;dffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'[;hj\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\\h'jgggggggggghglf\r\n\r\n\r\n\\\\\\'\\d'f Sticky keys have been disabled"
+    },
+    {
+        "issue_id": "840",
+        "title": "Replace panic.c with ASCII Art images of Benjamin Netanyahu",
+        "body": "![image](https://github.com/torvalds/linux/assets/117142071/dad22960-eb7f-4900-9e88-31c798c47450)\r\n\r\nAnd Palestine(and the world) will never have panic"
+    },
+    {
+        "issue_id": "838",
+        "title": "README: Fix grammatical & punctuation errors, markdown-ify, clickable…",
+        "body": "… URLs, improved reading clarity\r\n\r\n- Fixed grammatical errors: \r\n    - \"which ... by upgrading\"   -> which ... from upgrading\"\r\n\r\n- Fixed punctuation (incorrectly added comma):\r\n    - \"building and, running\"     -> \"building and running\"\r\n\r\n- Improved reading clarity: - \"In a number of formats\"  -> \"In several formats\"\r\n    - \"In order to build the\"       -> \"To build the\"\r\n    - \"several of them using\"    -> \"several using\"\r\n\r\n- Updated file to markdown, while maintaining past formatting\r\n\r\n- Links are now hyperlinks, facilitating use"
+    },
+    {
+        "issue_id": "835",
+        "title": "actions/upload-artifact",
+        "body": "comit"
+    },
+    {
+        "issue_id": "833",
+        "title": "chinese john cena",
+        "body": "chinese john cena"
+    },
+    {
+        "issue_id": "727",
+        "title": "created pizza",
+        "body": ""
+    },
+    {
+        "issue_id": "684",
+        "title": "Update panic.c",
+        "body": ""
+    },
+    {
+        "issue_id": "476",
+        "title": "Hyy there ",
+        "body": "Do you still have a mipad ????\r\nIf yes please help us\r\nWe cannot make shield tablet blobs stable on mipad\r\nWe need bootloader sources please help\r\n\r\n\r\nSorry for writing here"
+    },
+    {
+        "issue_id": "437",
+        "title": "this code very fast",
+        "body": "remove empty characters"
+    },
+    {
+        "issue_id": "128",
+        "title": "Eliminate two duplicated lines codes to enhance the xt_hashlimit.c of ne...",
+        "body": "There are two duplicated lines of hashlimit_mt. Now I enhance it to eliminate the duplicated codes.\n"
+    },
+    {
+        "issue_id": "125",
+        "title": "Update cfi_cmdset_0002.c",
+        "body": "# Issue description:\r\n\r\nDuring writing the Linux Kernel image on /dev/mtdX device the burning is failed due to I/O write or erase error:\r\n\r\nErasing blocks: 6/12 (50%)\r\nWhile erasing blocks 0x000a0000-0x000c0000 on /dev/mtd1: Input/output error\r\nBurning the /persistent/ISF.img image on /dev/mtd1 failed.\r\n\r\nWhen doing erase, writing or verifying using FLASHCP program, the cfi mtd functions of Linux Kernel MTD driver can returns too early. The function chip_ready() return OK status while the actual writing or erasing is not finished on NOR flash device. It leads to I/O error and fail in writing, erasing or verifying of the data during working with MTD devices.\r\n\r\nWhen the issue with writing is reproduced we compared the data of LinuxKERNEL.img and the data which was written on the /dev/mtdX device:\r\ndd if=/dev/mtd3 bs=2367008 count=1 > /persistent/dest.buf\r\nhexdump /persistent/dest.buf > /persistent/dest.hex\r\nhexdump /persistent/LinuxKERNEL.img > /persistent/source.hex\r\ndiff -purN /persistent/dest.hex /persistent/source.hex\r\n\r\nAnd it was observed that the driver didn't write some blocks at all (0xffff instead of real data in some places). Flash driver skip writing or hasn't been finished it during the specific time.\r\n\r\nI found that in Internet I am not alone in this world, but I didn't find some solution for this problem which doesn't lead to increasing of the time of writing.  So I investigate the writing and found that there is no any check that the data is really was written on the Flash. So the proposed solution is to compare the given last byte with written one. We have run a long stubility during several weeks on our side with Switch Board using writing on NOR flash and the problem is not reproduced.\r\n# FREQUENCY:\r\n\r\n1%\r\nThe I/O error appears about 1 time during 3-4 hours writing on NOR flash. But it was not possible to determine exactly at what time the issue can happen.\r\n# SYSTEM IMPACT:\r\n\r\nfails to write/erase on NOR flash\r\n# FIX DESCRIPTION:\r\n\r\nWait until the following checks return positive results during writing/erasing on NOR Flash:\r\n1. read the data/status from the device (checking status of the NOR Flash: busy, timeout or ok(data)) return ok;\r\n2. check the last byte of given buffer data is written in case of WRITE or the last map word is erased in case of ERASE.\r\n# TEST DESCRIPTION:\r\n\r\nStart writing some data on NOR FLASH (mtd device) using flashcp or start erasing using flash_erase.\r\n"
+    },
+    {
+        "issue_id": "84",
+        "title": "ALSA: Missing ;",
+        "body": "Fixes: RT-Linux-Hdaudio-5.18 won't compile because of missing ;\n"
+    },
+    {
+        "issue_id": "83",
+        "title": "Merge pull request #1 from torvalds/master",
+        "body": "Pull request at 2013-12-19\n"
+    },
+    {
+        "issue_id": "81",
+        "title": "facebook functionality",
+        "body": "allows users to login to linux with facebook\n"
+    },
+    {
+        "issue_id": "78",
+        "title": "supercharged some functions",
+        "body": "supercharged some boring ass function\n"
+    },
+    {
+        "issue_id": "62",
+        "title": "update to gnu3",
+        "body": ""
+    },
+    {
+        "issue_id": "60",
+        "title": "fix some typos",
+        "body": ""
+    },
+    {
+        "issue_id": "31",
+        "title": "Fix M1405 netbook touchpad",
+        "body": "Added support for Gigabyte M1405 touchpad\n"
+    },
+    {
+        "issue_id": "20",
+        "title": "s",
+        "body": "sup\n"
+    },
+    {
+        "issue_id": "17",
+        "title": "Add support for AR5BBU22 [0489:e03c]",
+        "body": ""
+    }
+]
