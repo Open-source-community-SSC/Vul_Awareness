@@ -33,6 +33,12 @@ def preprocess_issue_dataset(owner, repository):
     dataset["body"] = dataset["body"].map(replace_tokens_simple_1)
     print("finish process...")
 
+    # 合并title和body创建text列，添加空值处理和字符串清理
+    dataset["text"] = dataset.apply(
+        lambda x: ' '.join(str(part) for part in [x["title"], x["body"]] if pd.notna(part)),
+        axis=1
+    ).str.strip()
+
     dataset.to_csv(f"data/dataset_{owner}_{repository}_issue.csv", index=False)
     with open(f"data/dataset_{owner}_{repository}_issue.json", 'w', encoding='utf-8') as f:
         json.dump(data_list, f, ensure_ascii=False, indent=4)
